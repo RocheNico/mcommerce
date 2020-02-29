@@ -66,8 +66,4 @@ public class ProductBean {
                 ", prix=" + prix +
                 '}';
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ClientEtMSCommuniquant
